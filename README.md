@@ -1,5 +1,5 @@
 # AutosizingTextViews-Demo
- Android O allows you to instruct a TextView to let the size of the text expand or contract automatically to fill its layout based on the TextView's characteristics and boundaries. This setting makes it easier to optimize the text size on different screens with dynamic content.
+Android Oreo (OS Version 8.0 & API level 26) allows you to instruct a TextView to let the size of the text expand or contract automatically to fill its layout based on the TextView's characteristics and boundaries. This setting makes it easier to optimize the text size on different screens with dynamic content.
 
 ![Screenshot AutosizingTextViews-Demo](https://github.com/1priyank1/AutosizingTextViews-Demo/blob/master/screenshots/Screenshot_1491385098.png "Screenshot AutosizingTextViews-Demo")
 
